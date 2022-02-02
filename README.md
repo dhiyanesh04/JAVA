@@ -1,4 +1,4 @@
-# JAVA - Beginner to Addvanced
+# JAVA - Beginner to Advanced
 This repository has been prepared for the beginners to help them understand the basic to advanced concepts related to Java Programming language.
 
 ## JAVA
